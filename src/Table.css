@@ -1,0 +1,16 @@
+.table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+.table,
+.table-header th,
+.table td {
+  border: 1px solid black;
+  height: 33px;
+}
+
+.table-header {
+  background-color: #333;
+  color: white;
+}
